@@ -1,0 +1,25 @@
+Software development models refer to structured approaches for designing,developing and delivering software. 
+These models guide the entire software development lifecycle (SDLC). 
+Some of the most commonly used software models are:
+1.Waterfall Model
+The Waterfall model is a linear and sequential approach where each phase must be completed before the next one begins.
+It is based on Requirements,Design,Implementation,Testing,Deployment,Maintenance.
+Easy to understand and manage;structured.
+Inflexible;changes are costly and difficult to implement once a phase is completed.
+
+2.V-Model (Verification and Validation)
+An extension of the Waterfall model,where each development stage is associated with a corresponding testing phase.
+It works based on Requirements (Verification),Design (Validation),Coding,Testing,Maintenance.
+Emphasizes testing early in the development process.
+Not flexible for changes;testing may be too late to catch major design flaws.
+
+3.DevOps Model
+Aims to unify software development (Dev) and IT operations (Ops).It emphasizes collaboration,automation and continuous integration and deployment (CI/CD).
+Faster delivery,frequent updates and continuous feedback loops.
+Requires cultural change and high levels of automation,can be challenging to scale.
+
+4.Agile Model
+Agile is a set of principles for software development rather than a strict model.
+It focuses on iterative development,flexibility,customer collaboration and delivering small but valuable increments.
+Flexibility,customer focus,rapid delivery.
+Requires high customer involvement,can be difficult to maintain a consistent product vision.

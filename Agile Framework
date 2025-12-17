@@ -1,0 +1,23 @@
+AGILE:
+Agile is a software development methodology based on iterative development,where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. 
+It emphasizes flexibility,customer collaboration and delivering small,working pieces of software frequently.
+Scrum:
+Scrum is one of the most widely used Agile frameworks. 
+It divides work into time-boxed iterations called Sprints (usually 2-4 weeks),where specific goals are achieved.
+Manages the product backlog,ensuring that it is prioritized.
+Facilitates the Scrum process,removes obstacles and ensures the team adheres to Scrum principles.
+The development group that works on delivering the increments.
+Sprint Planning:Defines the work to be done in the upcoming sprint.
+Daily Stand-up:A brief meeting (usually 15 minutes) to discuss progress,impediments and next steps.
+Sprint Review:A meeting where the team demonstrates the completed increment to stakeholders.
+Sprint Retrospective: A meeting where the team reflects on the sprint to improve processes for the next one.
+KANBAN:
+Kanban Board:A visual representation of the workflow,usually divided into columns such as "To Do," "In Progress," and "Done."Teams move tasks across the board to show progress.
+Backlog:Tasks that are pending assignment.
+To Do:Tasks that are ready to be picked up.
+In Progress:Tasks currently being worked on.
+Code Review:Tasks under review by peers.
+Done:Tasks that have been completed.
+DevOps (Development + Operations)
+DevOps merges software development with IT operations throughout the software development lifecycle,covering development,testing and support.
+This methodology enhances efficiency,speed and the security of the development and IT operations process.
